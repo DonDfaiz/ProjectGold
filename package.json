@@ -1,0 +1,28 @@
+{
+  "name": "projectgold",
+  "version": "1.0.0",
+  "description": "Project Gold",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonDfaiz/ProjectGold.git"
+  },
+  "author": "ah.faiz9297@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonDfaiz/ProjectGold/issues"
+  },
+  "homepage": "https://github.com/DonDfaiz/ProjectGold#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
